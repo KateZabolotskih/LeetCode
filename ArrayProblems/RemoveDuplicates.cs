@@ -1,21 +1,16 @@
 using System;
 
-public static class Extensions
-{
-    public static T[] RemoveAt<T>(this T[] source, int index)
-    {
-        return source.Where((_, i) => i != index).ToArray();
-    }
-}
-
 public static class DuplicatesRemoval {
     public static int RemoveDuplicates(int[] nums) 
     {
-        for(int i = 0; i < nums.Length - 1; i++)
+        var neatArray = nums.ToArray().Distinct();
+        int size = 0;
+
+        foreach(var num in neatArray)
         {
-            if(nums[i] == nums[i + 1])
-                nums = nums.RemoveAt(i);
+            nums[size++] = num;
         }
-        return nums.Length;
+
+        return size;
     }
 }

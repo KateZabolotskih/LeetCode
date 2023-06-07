@@ -2,8 +2,8 @@
 using System;
 using System.Diagnostics;
 
-var array = new[] {1, 1, 2, 2, 3, 4, 5, 6, 7};
-var expectedNums = new[] {1, 2, 3, 4, 5, 6, 7}; // The expected answer with correct length
+var array = new[] {1, 1, 2, 3, 3, 4, 5, 6, 6};
+var expectedNums = new[] {1, 2, 3, 4, 5, 6}; // The expected answer with correct length
 
 int k = DuplicatesRemoval.RemoveDuplicates(array); // Calls your implementation
 
