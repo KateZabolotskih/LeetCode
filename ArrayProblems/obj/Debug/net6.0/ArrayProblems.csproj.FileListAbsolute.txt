@@ -1,0 +1,15 @@
+/Users/zabolotskiheka/LeetCode/ArrayProblems/bin/Debug/net6.0/ArrayProblems
+/Users/zabolotskiheka/LeetCode/ArrayProblems/bin/Debug/net6.0/ArrayProblems.deps.json
+/Users/zabolotskiheka/LeetCode/ArrayProblems/bin/Debug/net6.0/ArrayProblems.runtimeconfig.json
+/Users/zabolotskiheka/LeetCode/ArrayProblems/bin/Debug/net6.0/ArrayProblems.dll
+/Users/zabolotskiheka/LeetCode/ArrayProblems/bin/Debug/net6.0/ArrayProblems.pdb
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.csproj.AssemblyReference.cache
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.AssemblyInfoInputs.cache
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.AssemblyInfo.cs
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.csproj.CoreCompileInputs.cache
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.dll
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/refint/ArrayProblems.dll
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.pdb
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ArrayProblems.genruntimeconfig.cache
+/Users/zabolotskiheka/LeetCode/ArrayProblems/obj/Debug/net6.0/ref/ArrayProblems.dll
